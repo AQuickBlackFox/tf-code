@@ -1,4 +1,4 @@
-# Square of a vector
+# Matrix Multiplication
 import tensorflow as tf
 import numpy as np
 
